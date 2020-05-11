@@ -39,7 +39,7 @@ public class Main {
 		}
 
 		// MY HARD-CODED GRAMMAR
-
+//CHANGE Size to 8 if you want to check this grammar. THIS GRAMMAR IS AN EXAMPLE FROM CLASS, AND IS MUCH SIMPLER.
 //		grammar_left[0] = "S"; grammar_left[1] = "S"; grammar_left[2] = "A";
 //		grammar_left[3] = "A"; grammar_left[4] = "A"; grammar_left[5] = "B";
 //		grammar_left[6] = "B"; grammar_left[7] = "B"; grammar_right[0] = "Aa";
